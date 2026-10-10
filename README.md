@@ -33,9 +33,8 @@ Python (pandas), SQL (SQLite), Jupyter Notebook, Power BI
 - Plan stock and promotions ahead of the year-end sales peak
 
 ## Dashboard
-![Page 1](dashboard_page1.png)
-![Page 2](dashboard_page2.png)
-
+![Sales Performance](superstore%20performance%20dashboard.png)
+![Customer Segmentation](customer%20segmentation%20dashboard.png)
 ## Files
 - notebook: data cleaning and SQL analysis
 - CSV files: query outputs used in Power BI
